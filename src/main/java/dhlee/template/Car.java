@@ -1,4 +1,4 @@
-package dhlee.templateex;
+package dhlee.template;
 
 public abstract class Car {
     public abstract void drive();

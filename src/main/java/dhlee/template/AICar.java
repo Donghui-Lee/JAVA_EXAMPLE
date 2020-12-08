@@ -1,4 +1,4 @@
-package dhlee.templateex;
+package dhlee.template;
 
 public class AICar extends Car{
     @Override
